@@ -1,0 +1,1 @@
+An example of using `provider` forked from https://github.com/FilledStacks/flutter-tutorials
